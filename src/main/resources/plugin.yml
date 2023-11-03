@@ -1,0 +1,4 @@
+name: KeniP
+version: '${version}'
+main: org.keni.kenip.KeniP
+api-version: '1.17'
